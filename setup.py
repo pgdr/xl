@@ -8,3 +8,5 @@ setuptools.setup(
     install_requires=["pandas", "xlrd"],
     entry_points={"console_scripts": ["xl=xl:main"]},
 )
+
+# just for PR testing purposes
